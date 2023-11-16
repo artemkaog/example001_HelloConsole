@@ -1,0 +1,15 @@
+/Users/natalia/Desktop/Exaples/example005IfElse/obj/Debug/net6.0/example005IfElse.csproj.AssemblyReference.cache
+/Users/natalia/Desktop/Exaples/example005IfElse/obj/Debug/net6.0/example005IfElse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/natalia/Desktop/Exaples/example005IfElse/obj/Debug/net6.0/example005IfElse.AssemblyInfoInputs.cache
+/Users/natalia/Desktop/Exaples/example005IfElse/obj/Debug/net6.0/example005IfElse.AssemblyInfo.cs
+/Users/natalia/Desktop/Exaples/example005IfElse/obj/Debug/net6.0/example005IfElse.csproj.CoreCompileInputs.cache
+/Users/natalia/Desktop/Exaples/example005IfElse/bin/Debug/net6.0/example005IfElse
+/Users/natalia/Desktop/Exaples/example005IfElse/bin/Debug/net6.0/example005IfElse.deps.json
+/Users/natalia/Desktop/Exaples/example005IfElse/bin/Debug/net6.0/example005IfElse.runtimeconfig.json
+/Users/natalia/Desktop/Exaples/example005IfElse/bin/Debug/net6.0/example005IfElse.dll
+/Users/natalia/Desktop/Exaples/example005IfElse/bin/Debug/net6.0/example005IfElse.pdb
+/Users/natalia/Desktop/Exaples/example005IfElse/obj/Debug/net6.0/example005IfElse.dll
+/Users/natalia/Desktop/Exaples/example005IfElse/obj/Debug/net6.0/refint/example005IfElse.dll
+/Users/natalia/Desktop/Exaples/example005IfElse/obj/Debug/net6.0/example005IfElse.pdb
+/Users/natalia/Desktop/Exaples/example005IfElse/obj/Debug/net6.0/example005IfElse.genruntimeconfig.cache
+/Users/natalia/Desktop/Exaples/example005IfElse/obj/Debug/net6.0/ref/example005IfElse.dll
